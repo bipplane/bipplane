@@ -1,5 +1,12 @@
-## Hi there 👋
 
+
+<p align="center">
+<img
+   src="https://github.com/user-attachments/assets/f5f9a2fb-2316-4e72-838b-0d4d4673e8f5"
+   height = "400"
+   object-position: 50% 50%;
+   alt="Chaewon">
+</p>
 <!--
 **bipplane/bipplane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

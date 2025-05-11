@@ -1,4 +1,4 @@
-<h3 align="center"> stan le sserafim </h3>
+<h3 align="center"> stan le sserafim       ˚ʚ♡ɞ˚</h3>
 
 <p align="center">
 <img

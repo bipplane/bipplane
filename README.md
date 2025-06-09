@@ -2,10 +2,10 @@
 
 <p align="center">
 <img
-   src="https://github.com/user-attachments/assets/f5f9a2fb-2316-4e72-838b-0d4d4673e8f5"
+   src="https://github.com/user-attachments/assets/0b5b58a8-4d70-4af2-ab7b-9e03a3ed6b51"
    height = "400"
    object-position: 50% 50%;
-   alt="Chaewon">
+   alt="IM FEARLESS">
 </p>
 <!--
 **bipplane/bipplane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

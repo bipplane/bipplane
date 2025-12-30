@@ -10,10 +10,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
    <!-- Streaks --> 
-   <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="160" alt="GitHub Streaks" /> 
+   <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="130" alt="GitHub Streaks" /> 
    
    <!-- Activity Graph --> 
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipplane&radius=6&theme=github&area=true&order=5&hide_border=true&hide_title=false&days=15" height="160" alt="GitHub Activity Graph" /> 
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipplane&radius=6&theme=github&area=true&order=5&hide_border=true&hide_title=false&days=15" height="130" alt="GitHub Activity Graph" /> 
 </div>
 
 <!--

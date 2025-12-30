@@ -1,12 +1,21 @@
-<h3 align="center"> stan le sserafim       ˚ʚ♡ɞ˚</h3>
+<h3 align="center"> stan le sserafim    ʚ♡ɞ   </h3>
 
 <p align="center">
 <img
    src="https://github.com/user-attachments/assets/0b5b58a8-4d70-4af2-ab7b-9e03a3ed6b51"
-   height = "400"
+   height = "350"
    object-position: 50% 50%;
    alt="IM FEARLESS">
 </p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+   <!-- Streaks --> 
+   <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="160" alt="GitHub Streaks" /> 
+   
+   <!-- Activity Graph --> 
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipplane&radius=6&theme=github&area=true&order=5&hide_border=true&hide_title=false&days=15" height="160" alt="GitHub Activity Graph" /> 
+</div>
+
 <!--
 **bipplane/bipplane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

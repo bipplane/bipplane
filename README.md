@@ -13,9 +13,8 @@
    <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="130" alt="GitHub Streaks" /> 
    
    <!-- Activity Graph --> 
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipplane&radius=6&theme=github&area=true&order=5&hide_border=true&hide_title=false&days=15" height="130" alt="GitHub Activity Graph" /> 
+   <img src="https://raw.githubusercontent.com/bipplane/bipplane/main/dist/activity-graph.svg" height="130" alt="GitHub Activity Graph" /> 
 </div>
-
 <!--
 **bipplane/bipplane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

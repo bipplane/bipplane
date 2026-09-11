@@ -14,10 +14,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: actions/upload-artifact@v4
-        with: { name: snake, path: dist }
-      - uses: peaceiris/actions-gh-pages@v4
+
+      - name: Push snake to main
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          publish_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
           publish_branch: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          keep_files: true          # <-- IMPORTANT: don't delete other files on main
+          commit_message: "chore: update snake animation"

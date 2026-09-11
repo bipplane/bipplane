@@ -1,19 +1,34 @@
 <h3 align="center"> stan le sserafim    ʚ♡ɞ   </h3>
 
-<p align="center">
-<img
-   src="https://github.com/user-attachments/assets/0b5b58a8-4d70-4af2-ab7b-9e03a3ed6b51"
-   height = "350"
-   object-position: 50% 50%;
-   alt="IM FEARLESS">
-</p>
+<div align="center">
+  <!-- Snake animation -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bipplane/bipplane/output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bipplane/bipplane/output/github-snake.svg" />
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/bipplane/bipplane/output/github-snake.svg"
+      height="130" />
+  </picture>
+
+  <br />
+
+  <img
+    src="https://github.com/user-attachments/assets/0a6b75a0-dccd-4fe6-bd16-46c010f68949"
+    width="572"
+    alt="IM FEARLESS" />
+</div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
    <!-- Streaks --> 
-   <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="130" alt="GitHub Streaks" /> 
+   <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="110" alt="GitHub Streaks" /> 
    
    <!-- Activity Graph --> 
-   <img src="https://raw.githubusercontent.com/bipplane/bipplane/main/dist/activity-graph.svg" height="130" alt="GitHub Activity Graph" /> 
+   <img src="https://raw.githubusercontent.com/bipplane/bipplane/main/dist/activity-graph.svg" height="110" alt="GitHub Activity Graph" /> 
 </div>
 <!--
 **bipplane/bipplane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

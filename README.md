@@ -12,18 +12,18 @@
     <img
       alt="Snake animation"
       src="https://raw.githubusercontent.com/bipplane/bipplane/output/github-snake.svg"
-      height="130" />
+      height="115" />
   </picture>
 
   <br />
 
   <img
     src="https://github.com/user-attachments/assets/0a6b75a0-dccd-4fe6-bd16-46c010f68949"
-    width="572"
+    width="510"
     alt="lsfm" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;"> 
    <!-- Streaks --> 
    <img src="https://streak-stats.demolab.com?user=bipplane&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="110" alt="GitHub Streaks" /> 
    
